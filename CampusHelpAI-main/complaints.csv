@@ -1,0 +1,109 @@
+complaint,category
+"The campus Wi-Fi is not connecting in the library",IT_NETWORK
+"Internet speed is very slow in the computer lab",IT_NETWORK
+"The network connection keeps disconnecting",IT_NETWORK
+"I cannot log in to the student portal",IT_NETWORK
+"The projector is not connecting to the laptop",IT_NETWORK
+"The printer in the office is not responding",IT_NETWORK
+"The computer lab systems are not accessing the internet",IT_NETWORK
+"The website is showing a server error",IT_NETWORK
+"The lights in classroom 204 are not working",ELECTRICAL
+"The fan stopped working",ELECTRICAL
+"There is a power cut in the laboratory",ELECTRICAL
+"The switchboard is making a buzzing sound",ELECTRICAL
+"The tube light is flickering continuously",ELECTRICAL
+"The classroom projector has no power",ELECTRICAL
+"The corridor lights are not turning on",ELECTRICAL
+"An electrical socket is damaged",ELECTRICAL
+"Water is leaking from the washroom tap",PLUMBING
+"The bathroom sink is blocked",PLUMBING
+"There is no water supply in the hostel",PLUMBING
+"The toilet flush is not working",PLUMBING
+"A pipe is leaking near the canteen",PLUMBING
+"The drinking water tap is broken",PLUMBING
+"Water is overflowing from the washbasin",PLUMBING
+"The drainage is blocked near the building",PLUMBING
+"The classroom floor is dirty",CLEANLINESS
+"Dustbins are overflowing near the canteen",CLEANLINESS
+"The washroom has not been cleaned",CLEANLINESS
+"There is garbage near the main entrance",CLEANLINESS
+"The corridor needs sweeping",CLEANLINESS
+"The classroom has a bad smell",CLEANLINESS
+"The garden area has litter scattered around",CLEANLINESS
+"The staircase is dirty and needs cleaning",CLEANLINESS
+"A classroom window is broken",INFRASTRUCTURE
+"There is a crack in the classroom wall",INFRASTRUCTURE
+"The classroom door handle is damaged",INFRASTRUCTURE
+"A desk in the lecture hall is broken",INFRASTRUCTURE
+"The ceiling is damaged in the corridor",INFRASTRUCTURE
+"The staircase railing is loose",INFRASTRUCTURE
+"The library chair is damaged",INFRASTRUCTURE
+"The classroom roof is leaking during rain",INFRASTRUCTURE
+"I lost my identity card on campus",OTHER
+"I need help with the college bus schedule",OTHER
+"How can I get a duplicate fee receipt",OTHER
+"I want to know the office working hours",OTHER
+"I have a question about event registration",OTHER
+"Where can I submit my scholarship documents",OTHER
+"I need information about the examination timetable",OTHER
+"I want to report a lost water bottle",OTHER
+"An exposed electrical wire is hanging near the classroom entrance",ELECTRICAL
+"A live wire is visible near the corridor",ELECTRICAL
+"The electrical cable insulation is damaged in the laboratory",ELECTRICAL
+"Someone could get an electric shock from the loose wire",ELECTRICAL
+"The power socket is sparking in the classroom",ELECTRICAL
+"The electrical switch is broken and wires are exposed",ELECTRICAL
+"Wi-Fi disconnected in seminar hall",IT_NETWORK
+"Internet unavailable in hostel",IT_NETWORK
+"Student portal login failure",IT_NETWORK
+"Printer not responding in library",IT_NETWORK
+"Network cable damaged in lab",IT_NETWORK
+"Projector connection failure",IT_NETWORK
+"Broken water tap in hostel",PLUMBING
+"Overflowing washbasin in restroom",PLUMBING
+"Blocked drainage near canteen",PLUMBING
+"Water supply stopped in laboratory",PLUMBING
+"Toilet flush damaged",PLUMBING
+"Pipe leakage near classroom",PLUMBING
+"Overflowing dustbin near library",CLEANLINESS
+"Unclean classroom floor",CLEANLINESS
+"Garbage dumped near hostel",CLEANLINESS
+"Dirty washroom in academic block",CLEANLINESS
+"Corridor needs cleaning",CLEANLINESS
+"Uncollected waste near canteen",CLEANLINESS
+"Broken classroom door",INFRASTRUCTURE
+"Damaged window in laboratory",INFRASTRUCTURE
+"Cracked classroom wall",INFRASTRUCTURE
+"Broken library chair",INFRASTRUCTURE
+"Damaged staircase railing",INFRASTRUCTURE
+"Roof leakage in auditorium",INFRASTRUCTURE
+"College bus schedule enquiry",OTHER
+"Request for duplicate ID card",OTHER
+"Scholarship application enquiry",OTHER
+"Exam timetable information",OTHER
+"College event registration enquiry",OTHER
+"Request for fee receipt",OTHER
+"Ceiling fan is not rotating",ELECTRICAL
+"Classroom fan stopped working",ELECTRICAL
+"Fan regulator is damaged",ELECTRICAL
+"Electric motor is not starting",ELECTRICAL
+"Tube light is flickering",ELECTRICAL
+"Classroom lights are not turning on",ELECTRICAL
+"fan not working",ELECTRICAL
+"ceiling fan stopped",ELECTRICAL
+"fan regulator damaged",ELECTRICAL
+"Wi-Fi disconnected",IT_NETWORK
+"internet not available",IT_NETWORK
+"slow network",IT_NETWORK
+"tap leaking",PLUMBING
+"blocked drain",PLUMBING
+"water pipe damaged",PLUMBING
+"garbage overflowing",CLEANLINESS
+"dirty classroom",CLEANLINESS
+"uncollected waste",CLEANLINESS
+"broken classroom door",INFRASTRUCTURE
+"damaged classroom desk",INFRASTRUCTURE
+"cracked classroom wall",INFRASTRUCTURE
+"duplicate ID card",OTHER
+"fee receipt request",OTHER
+"bus timetable enquiry",OTHER
